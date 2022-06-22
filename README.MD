@@ -8,7 +8,9 @@
 
 ### Connect with me:
 
+<a href='https://www.linkedin.com/in/k-hongkham'>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" style="padding-right:10px;" />
+</a>
 <br />
 
 ### Languages and Tools:
