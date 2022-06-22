@@ -33,4 +33,6 @@
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-[website]: https://www.linkedin.com/in/k-hongkham
+### Details:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-hongkham&layout=compact)](https://github.com/k-hongkham/github-readme-stats)
