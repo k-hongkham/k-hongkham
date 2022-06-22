@@ -8,7 +8,6 @@
 
 ### Connect with me:
 
-[<img align='left' alt='linkedIn-profile' width="22px" src="https://www.linkedin.com/in/k-hongkham" /> ]
 [![website](https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png)][website]
 
 <br />
